@@ -1,6 +1,6 @@
 # Clean White Theme for Hugo
 
-CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.  
+CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live [demo site](https://zhaohuabing.com) using this theme.
 
 It is based on [huxblog Jekyll Theme](https://github.com/Huxpro/huxpro.github.io)
 and [Clean Blog Jekyll Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll).
@@ -43,7 +43,7 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 If you start from scratch, there is a working Hugo site configured with the CleanWhite theme in the [exampleSite](https://github.com/zhaohuabing/hugo-cleanwhite-theme/tree/master/exampleSite) directory.  You can use it as a starting point for your site.
 
-For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo 
+For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo
 
 ## Configuration
 First, let's take a look at the [config.toml](https://github.com/zhaohuabing/hugo-cleanwhite-theme/tree/master/exampleSite/config.toml). It will be useful to learn how to customize your site. Feel free to play around with the settings.
@@ -116,7 +116,7 @@ Open search page in your browser: http://localhost:1313/search
 
 ### Analytics
 
-You can optionally enable Google or Baidu Analytics. Type your tracking code in the 
+You can optionally enable Google or Baidu Analytics. Type your tracking code in the
 
 ```toml
 googleAnalytics = "UA-XXXXX-X"
@@ -128,4 +128,7 @@ Leave the `googleAnalytics`  or 'ba_track_id ' key empty to disable it.
 Thanks for the great jobs of [huxblog Jekyll Theme](https://github.com/Huxpro/huxpro.github.io) and [Clean Blog Jekyll Theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) which are the the two upstream projects CleanWhite Hugo theme is based on.
 
 ## Feedback
-If you find any problems, please feel free to [raise an issue](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/new) or create a pull request to fix it. 
+If you find any problems, please feel free to [raise an issue](https://github.com/zhaohuabing/hugo-theme-cleanwhite/issues/new) or create a pull request to fix it.
+
+
+## Redo.....
